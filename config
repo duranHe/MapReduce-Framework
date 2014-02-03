@@ -1,0 +1,10 @@
+masterIP = 128.237.213.119
+masterPort=32343
+slavePort=32347
+reduceNum=1
+heartBeatTimeout=20000
+heartBeatInterval=10000
+
+
+RECORD_PER_MAP=50
+REPLICA_FACTOR=2
